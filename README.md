@@ -1,16 +1,47 @@
-## Hi there 👋
+# Sagine Precious
 
-<!--
-**Neo-Mods1/Neo-Mods1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### C++ • Android • Reverse Engineering
 
-Here are some ideas to get you started:
+I build native Android tooling, IL2CPP modding frameworks, runtime hooks, and high-performance overlay systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Expertise
+
+- Reverse Engineering
+- Android Native Development
+- IL2CPP Runtime Hooking
+- JNI Integration
+- Unity Modding
+- Overlay & Rendering Systems
+- ARM Architecture
+- Tooling & Framework Design
+
+---
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,androidstudio" />
+</p>
+
+`C++` `Android NDK` `IL2CPP` `Dobby` `JNI`
+`ImGui` `ARM` `Unity` `Reverse Engineering`
+
+---
+
+## Focus Areas
+
+```cpp
+class Developer {
+public:
+    const char* specialty =
+        "Native Android Development & Runtime Instrumentation";
+
+    const char* current_focus[] = {
+        "IL2CPP Hooking",
+        "JNI Overlay Systems",
+        "Game Runtime Analysis",
+        "Modding Infrastructure"
+    };
+};
