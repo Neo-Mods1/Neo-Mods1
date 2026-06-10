@@ -54,24 +54,4 @@ C++ | Kotlin | Java | ARM Assembly | NDK | IL2CPP | JNI | Dobby | ImGui
 
 ---
 
-## Snake Game Contribution Graph
-
-<div align="center">
-
-![GitHub Snake Animation](https://github.com/Neo-Mods1/Neo-Mods1/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## Latest Activity
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/Neo-Mods1?template=classic&isocalendar=1&languages=1&lines=1&followup=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&activity.limit=5&achievements.threshold=C&config.timezone=UTC)
-
-</div>
-
----
-
 **Get in touch:** [Telegram](https://t.me/NeoMods1)
