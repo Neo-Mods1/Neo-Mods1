@@ -54,4 +54,4 @@ C++ | Kotlin | Java | ARM Assembly | NDK | IL2CPP | JNI | Dobby | ImGui
 
 ---
 
-**Get in touch:** [Telegram]([https://t.me/NeoModsChannel])
+**Get in touch:** [Join our Telegram Channel](https://t.me/NeoModsChannel)
