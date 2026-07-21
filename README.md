@@ -60,7 +60,7 @@ C++               ████████░░░░░░░░░░ 60%
 
 A powerful utility for dumping and analyzing libraries from Android applications. Engineered for performance with Java and C++ for optimal extraction speeds.
 
-**Tech:** `Java` • `C++` • `Android NDK`
+**Tech:** `Kotlin` • `Rust` • `Compose`
 
 ---
 
@@ -69,7 +69,7 @@ A powerful utility for dumping and analyzing libraries from Android applications
 
 Streamline your Android development workflow with intuitive library manipulation and modification capabilities.
 
-**Tech:** `Kotlin` • `Java` • `Android Framework`
+**Tech:** `Kotlin` • `rust` • `Compose`
 
 ---
 
@@ -78,7 +78,7 @@ Streamline your Android development workflow with intuitive library manipulation
 
 A powerful management solution designed to simplify and enhance the Android development process with comprehensive utilities and features.
 
-**Tech:** `Kotlin` • `Java` • `Android Architecture`
+**Tech:** `C++` • `Java` • `xml`
 
 ---
 
