@@ -1,57 +1,150 @@
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### NeoMods
-**Deep Stack Developer**
+# Welcome to My GitHub Profile
 
-Android • C++ • Reverse Engineering
+```
+ _   _            __  __           _     _
+| \ | |          |  \/  |         | |   | |
+|  \| | ___  ___ | |  | | ___   __| | __| |
+| . ` |/ _ \/ _ \| |  | |/ _ \ / _` |/ _` |
+| |\  |  __/ (_) | |__| | (_) | (_| | (_| |
+|_| \_|\___|\___/|_____/ \___/ \__,_|\__,_|
+```
+
+</div>
+
+<style>
+  @keyframes slideInRight {
+    from {
+      transform: translateX(100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes fadeInUp {
+    from {
+      transform: translateY(30px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  @keyframes pulse {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.6;
+    }
+  }
+
+  .animated-header {
+    animation: slideInRight 0.8s ease-out;
+  }
+
+  .section {
+    animation: fadeInUp 0.6s ease-out;
+  }
+</style>
 
 ---
 
-**Expertise:**
-- IL2CPP Runtime Analysis
-- JNI/NDK Integration
-- Native Hooking Systems
-- Overlay Architecture
-- ARM Assembly
+## About Me
 
-**Philosophy:**
-Clean code. Stable internals. No shortcuts.
+I'm a dedicated **Programmer & Code Writer** specializing in **Android app development**. I create high-performance solutions with a focus on clean, efficient code and powerful development tools.
 
-</td>
-<td width="50%">
-
-![Neo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neo-Mods1&show_icons=true&theme=github_dark&title_color=FF6B35&icon_color=FF6B35&border_color=FF6B35&bg_color=0A0E27&text_color=C0C0C0)
-
-</td>
-</tr>
-</table>
+With expertise in **Java**, **C++**, and **Kotlin**, I build applications that push the boundaries of what's possible on Android platforms.
 
 ---
 
-## Languages & Tools
+## Tech Stack
 
-```cpp
-C++ | Kotlin | Java | ARM Assembly | NDK | IL2CPP | JNI | Dobby | ImGui
+### Languages
+```
+Java              ████████████████░░ 90%
+Kotlin            ██████████░░░░░░░░ 70%
+C++               ████████░░░░░░░░░░ 60%
+```
+
+### Core Technologies
+- Android Studio & SDK
+- Native Development Kit (NDK)
+- Gradle Build System
+- Git Version Control
+- Performance Optimization
+
+---
+
+## Featured Projects
+
+### libDumper
+> Library extraction and analysis tool for Android
+
+A powerful utility for dumping and analyzing libraries from Android applications. Engineered for performance with Java and C++ for optimal extraction speeds.
+
+**Tech:** Java, C++, Android NDK
+
+---
+
+### LibEditor
+> Advanced library editing suite
+
+Streamline your Android development workflow with intuitive library manipulation and modification capabilities.
+
+**Tech:** Kotlin, Java, Android Framework
+
+---
+
+### NT Manager (In Development)
+> Comprehensive Android management tool
+
+A powerful management solution designed to simplify and enhance the Android development process with comprehensive utilities and features.
+
+**Tech:** Kotlin, Java, Android Architecture
+
+---
+
+## GitHub Statistics
+
+```
+Total Projects:    15+
+Primary Language:  Java
+Secondary:         Kotlin
+Tertiary:          C++
+Activity:          Active Development
 ```
 
 ---
 
-## Activity
+## Current Focus
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neo-Mods1&bg_color=0A0E27&color=FF6B35&line=FF6B35&point=FF6B35&area=true&hide_border=false&border_color=FF6B35)
+Developing advanced Android applications and tools that enhance the development ecosystem. Currently building NT Manager with a focus on performance and user experience.
 
 ---
 
-## Streaming Now
+## Connect
+
+- **Telegram Channel:** NeoModschannel - Updates and announcements
+- **Telegram Dev:** NeoModsDev - Developer discussions
+- **GitHub:** Neo-Mods1
+
+---
+
+## Philosophy
+
+Clean code is not a luxury, it's a necessity. I believe in writing maintainable, efficient solutions that stand the test of time. Every project is an opportunity to push boundaries and contribute meaningfully to the development community.
+
+---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=Reverse+Engineering+IL2CPP+Runtimes...;Building+JNI-Bridged+Overlay+Systems...;Writing+Native+Hooking+Infrastructure...;Deep+Stack+Architecture+Specialist...)](https://git.io/typing-svg)
+**Building the future, one line of code at a time.**
 
 </div>
-
----
-
-**Get in touch:** [Join our Telegram Channel](https://t.me/NeoModsChannel)
