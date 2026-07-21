@@ -13,47 +13,6 @@
 
 </div>
 
-<style>
-  @keyframes slideInRight {
-    from {
-      transform: translateX(100%);
-      opacity: 0;
-    }
-    to {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-
-  @keyframes fadeInUp {
-    from {
-      transform: translateY(30px);
-      opacity: 0;
-    }
-    to {
-      transform: translateY(0);
-      opacity: 1;
-    }
-  }
-
-  @keyframes pulse {
-    0%, 100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0.6;
-    }
-  }
-
-  .animated-header {
-    animation: slideInRight 0.8s ease-out;
-  }
-
-  .section {
-    animation: fadeInUp 0.6s ease-out;
-  }
-</style>
-
 ---
 
 ## About Me
@@ -139,7 +98,7 @@ Developing advanced Android applications and tools that enhance the development 
 
 ## Philosophy
 
-Clean code is not a luxury, it's a necessity. I believe in writing maintainable, efficient solutions that stand the test of time. Every project is an opportunity to push boundaries and contribute meaningfully to the development community.
+Clean code is not a luxury, it's a necessity. I believe in writing maintainable, efficient solutions that stand the test of time. Every project is an opportunity to push boundaries and contribute to the developer community.
 
 ---
 
