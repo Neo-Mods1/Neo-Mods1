@@ -1,121 +1,73 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0077B5&height=170&section=header&text=Neo%20Mods&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20%7C%20Java%20%7C%20Kotlin%20%7C%20C%2B%2B&descAlignY=55&descAlign=50" width="100%"/>
+
 <div align="center">
 
-# Welcome to My GitHub Profile
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Android+App+Development+Specialist;Building+high-performance+Android+tools;Focused+on+clean+and+efficient+code)](https://git.io/typing-svg)
 
-<!-- Animated ASCII Art Header -->
-```
-███╗   ██╗███████╗ ██████╗      ███╗   ███╗ ██████╗ ██████╗ ███████╗
-████╗  ██║██╔════╝██╔═══██╗     ████╗ ████║██╔═══██╗██╔══██╗██╔════╝
-██╔██╗ ██║█████╗  ██║   ██║     ██╔████╔██║██║   ██║██║  ██║███████╗
-██║╚██╗██║██╔══╝  ██║   ██║     ██║╚██╔╝██║██║   ██║██║  ██║╚════██║
-██║ ╚████║███████╗╚██████╔╝     ██║ ╚═╝ ██║╚██████╔╝██████╔╝███████║
-╚═╝  ╚═══╝╚══════╝ ╚═════╝      ╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
+<img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,cpp,gradle,git" />
 
-<!-- Animated Typing Effect -->
-[![Typing Mindset](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Dedicated+Programmer+%26+Code+Writer;Android+App+Development+Specialist;Java+%7C+Kotlin+%7C+C%2B%2B+Developer)](https://git.io/typing-svg)
+<br/>
 
-<!-- Animated Status Badges -->
-![](https://img.shields.io/badge/Focus-Android_Development-brightgreen?style=for-the-badge&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Status-Active_Development-orange?style=for-the-badge)
+<img src="https://img.shields.io/badge/Focus-Android_Development-36BCF7?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Active_Development-0077B5?style=for-the-badge" />
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/folder-android.svg" width="100" title="Android Development"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## About Me
+
+I am an Android developer focused on building high-performance applications and development tools.
+
+My work centers on Android app development with **Java**, **Kotlin**, and **C++**, including Android SDK, NDK, and Gradle-based builds. I focus on performance, stability, and maintainable code.
+
+Currently exploring new tools and workflows for the Android development ecosystem.
 
 ---
 
-## ⚡ About Me
-
-I'm a dedicated **Programmer & Code Writer** specializing in **Android app development**. I create high-performance solutions with a focus on clean, efficient code and powerful development tools.
-
-With expertise in **Java**, **C++**, and **Kotlin**, I build applications that push the boundaries of what's possible on Android platforms.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-```
-Java              ████████████████░░ 90%
-Kotlin            ██████████░░░░░░░░ 70%
-C++               ████████░░░░░░░░░░ 60%
-```
-
-### Core Technologies
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="16"/> Android Studio & SDK
-- Native Development Kit (NDK)
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="16"/> Gradle Build System
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="16"/> Git Version Control
-- Performance Optimization
-
----
-
-## 🚀 Featured Projects
-
-### ⚙️ libDumper
-> Library extraction and analysis tool for Android
-
-A powerful utility for dumping and analyzing libraries from Android applications. Engineered for performance with Java and C++ for optimal extraction speeds.
-
-**Tech:** `Kotlin` • `Rust` • `Compose`
-
----
-
-### 📝 LibEditor
-> Advanced library editing suite
-
-Streamline your Android development workflow with intuitive library manipulation and modification capabilities.
-
-**Tech:** `Kotlin` • `rust` • `Compose`
-
----
-
-### ⚡ NT Manager <img src="https://media.giphy.com/media/WUlNhAWV5vnvv50fFi/giphy.gif" width="25"> *(In Development)*
-> Comprehensive Android management tool
-
-A powerful management solution designed to simplify and enhance the Android development process with comprehensive utilities and features.
-
-**Tech:** `C++` • `Java` • `xml`
-
----
-
-## 📊 GitHub Statistics
-
-```
-Total Projects:    15+
-Primary Language:  Java
-Secondary:         Kotlin
-Tertiary:          C++
-Activity:          Active Development
-```
-
----
-
-## 🎯 Current Focus
-
-Developing advanced Android applications and tools that enhance the development ecosystem. Currently building **NT Manager** with a focus on performance and user experience.
-
----
-
-## 🌐 Connect With Me
-
-- 📢 **Telegram Channel:** [NeoModschannel](https://t.me/NeoModschannel) — *Updates and announcements*
-- 💬 **Telegram Dev:** [NeoModsDev](https://t.me/NeoModsDev) — *Developer discussions*
-- 🐙 **GitHub Profile:** [@Neo-Mods1](https://github.com/Neo-Mods1)
-
----
-
-## 💡 Philosophy
-
-> *"Clean code is not a luxury, it's a necessity. I believe in writing maintainable, efficient solutions that stand the test of time. Every project is an opportunity to push boundaries and contribute to the developer community."*
-
----
+## Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Building%20the%20future,%20one%20line%20of%20code%20at%20a%20time.&fontSize=18&animation=fadeIn" width="100%"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,cpp,androidstudio,gradle,git,idea,vscode" />
+<br/>
+<br/>
 
+`Java` `Kotlin` `C++` `Android SDK` `NDK` `Gradle` `Git`
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neo-Mods1&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Neo-Mods1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Neo-Mods1&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo-Mods1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="45%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Neo-Mods1&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true" width="100%" />
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Neo-Mods1/Neo-Mods1/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <!-- fallback snake if workflow not yet enabled -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake fallback" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:36BCF7&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
